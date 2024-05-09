@@ -1,0 +1,3 @@
+- [ls] to list your files
+- [ls -l] to open it more
+- [clear] to clear what you have typed
